@@ -79,8 +79,8 @@ POST http://127.0.0.1:5000/chat
 
 🧪 Ví dụ để test Chatbot
 
-"Tôi chạy xe máy vượt đèn đỏ bị phạt bao nhiêu?"
-"Ô tô vượt quá tốc độ 10km/h"
-"Không đội mũ bảo hiểm phạt sao?"
-"Quên mang bằng lái thì bị xử lý như thế nào?"
+"Tôi đi xe không có đèn chiếu sáng thì bị phạt bao nhiêu?"
+"Ô tô chạy quá tốc độ nhiều thì phạt sao?"
+"Xe máy không đội mũ bảo hiểm có bị phạt không?"
+"Tôi quên mang bằng lái xe thì bị phạt thế nào?"
 
