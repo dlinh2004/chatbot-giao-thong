@@ -14,17 +14,29 @@ Chatbot Giao Thông là một ứng dụng hỗ trợ người dùng tra cứu m
 
 🛠 Cấu trúc dự án
 project/
+
 ├── chatbotgiaothong/        # Giao diện Frontend (Next.js / V0)
+
 │   ├── app/
+
 │   │   ├── globals.css
+
 │   │   ├── layout.tsx
+
 │   │   └── page.tsx
+
 │   └── package.json
+
 ├── app.py                   # Flask API Backend
+
 ├── train.py                 # Huấn luyện mô hình
+
 ├── violations_clean.csv     # Dữ liệu vi phạm giao thông
+
 ├── vectorizer.joblib
+
 ├── violations_matrix.joblib
+
 └── requirements.txt
 
 📦 1️⃣ Cài đặt Backend (Flask + ML)
